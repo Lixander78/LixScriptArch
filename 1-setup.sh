@@ -99,6 +99,7 @@ PKGS=(
 'exfat-utils'
 'extra-cmake-modules'
 'filelight'
+'firefox'
 'flex'
 'fuse2'
 'fuse3'
