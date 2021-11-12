@@ -18,8 +18,8 @@ From initial Prompt type the following commands:
 ```
 pacman -Sy git
 git clone https://github.com/Lixander78/LixScriptArch
-cd ArchTitus
-./archtitus.sh
+cd LixScriptArch
+./lixscriptarch.sh
 ```
 
 ### System Description
